@@ -1,0 +1,39 @@
+[debug] Packaging D:\scala\lab3\target\scala-2.13\lab3_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Compositions$.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\Compositions$.class
+[debug] 	Compositions.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\Compositions.class
+[debug] 	Cons$.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\Cons$.class
+[debug] 	Cons.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\Cons.class
+[debug] 	List.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\List.class
+[debug] 	main$.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\main$.class
+[debug] 	main.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\main.class
+[debug] 	Nil$.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\Nil$.class
+[debug] 	Nil.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\Nil.class
+[debug] 	None$.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\None$.class
+[debug] 	None.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\None.class
+[debug] 	Option.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\Option.class
+[debug] 	RecursiveData$.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\RecursiveData$.class
+[debug] 	RecursiveData.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\RecursiveData.class
+[debug] 	RecursiveFunctions$.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\RecursiveFunctions$.class
+[debug] 	RecursiveFunctions.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\RecursiveFunctions.class
+[debug] 	Some$.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\Some$.class
+[debug] 	Some.class
+[debug] 	  D:\scala\lab3\target\scala-2.13\classes\Some.class
+[debug] Done packaging.
