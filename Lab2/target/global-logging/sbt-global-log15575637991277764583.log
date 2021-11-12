@@ -1,0 +1,8 @@
+[debug] > Exec(lab2, None, None)
+[error] Not a valid command: lab2 (similar: last, alias, about)
+[error] Expected '/' (if selecting a project)
+[error] Expected ':'
+[error] Not a valid key: lab2 (similar: clean)
+[error] lab2
+[error]     ^
+[debug] > Exec(idea-shell, None, None)
